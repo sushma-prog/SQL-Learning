@@ -12,5 +12,20 @@ This repository contains my SQL learning progress, covering topics from basics t
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/8a35878d-86ed-466c-a6ce-ead7f39b64bd)
 
-## Future Plans
-- Learn PostgreSQL and advanced database optimization techniques.
+
+
+# 📊 Bakery Sales Analysis - SQL Project
+
+## 📌 Overview
+This project analyzes bakery sales data using SQL queries to extract insights on sales trends, customer behavior, and product performance.
+
+## 📂 Dataset
+- **Orders Table**: Contains order details including customer names, dates, and total amounts.
+- **Products Table**: Includes details of bakery products like prices and categories.
+- **Customers Table**: Stores customer information.
+
+## 🛠️ SQL Concepts Used
+- SELECT, WHERE, GROUP BY, HAVING, ORDER BY
+- INNER JOIN, LEFT JOIN, RIGHT JOIN
+- Subqueries and Aggregation functions (COUNT, MAX, AVG)
+- Stored Procedures and Triggers
